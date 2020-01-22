@@ -16,3 +16,4 @@ security:
       user-authorization-uri: https://github.com/login/oauth/authorize
       client-id: ef4d11260b7fdd386a3a
       client-secret: 3f7d9c30b641d1cb5e237affa9379d188cfe6640
+      user-info-uri: https://api.github.com/user
